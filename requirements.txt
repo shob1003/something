@@ -1,0 +1,5 @@
+python-dateutil
+colorama
+cloudscraper
+requests
+pyfiglet
