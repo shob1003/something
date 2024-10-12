@@ -58,8 +58,7 @@ class VooiDC:
         os.system("cls" if os.name == "nt" else "clear")
     
         print('')
-        print(Fore.GREEN + custom_fig.renderText('AIRDROPINSIDER'))
-        print(f"{Fore.YELLOW}[+] Join Group [https://t.me/AirdropInsiderID]{Fore.RESET}")
+        print(Fore.GREEN + custom_fig.renderText('SHOB'))
         print('')
     def get_headers(self):
         headers = self.base_headers.copy()
